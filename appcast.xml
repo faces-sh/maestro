@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Maestro</title>
+    <link>https://maestro.faces.sh/appcast.xml</link>
+    <description>Over-the-wire updates for Maestro.</description>
+    <language>en</language>
+    <item>
+      <title>Maestro 0.4.3</title>
+      <pubDate>Sun, 28 Jun 2026 17:33:51 +0200</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/faces-sh/maestro/releases/download/v0.4.3/Maestro.dmg"
+        sparkle:edSignature="ys3TXg38IfGVHNb6RWNxRPl13MRtt1BWM5kYhbIwCXC5N//UnNSZNGtj/LnfKB0xITomV7bWL7MbQWXsnif9BA=="
+        length="226613333"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
