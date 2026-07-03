@@ -6,15 +6,15 @@
     <description>Over-the-wire updates for Maestro.</description>
     <language>en</language>
     <item>
-      <title>Maestro 0.6.4</title>
-      <pubDate>Fri, 03 Jul 2026 19:16:41 +0200</pubDate>
-      <sparkle:version>31</sparkle:version>
-      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+      <title>Maestro 0.6.5</title>
+      <pubDate>Sat, 04 Jul 2026 01:26:03 +0200</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/faces-sh/maestro/releases/download/v0.6.4/Maestro.dmg"
-        sparkle:edSignature="TL/NCIsgi0kRNj1CsuniSz94DU/BFQ1NNIlfBwwDUUAyT2GfB3lnn//lgyOUykN5N5xH4DOltVDerAxAZgfACg=="
-        length="231535875"
+        url="https://github.com/faces-sh/maestro/releases/download/v0.6.5/Maestro.dmg"
+        sparkle:edSignature="rC/UX2iSH+VvxRXMsl7Z2U7LQ3ljh1lw6aBr7TV15tswmRiPLpb6UGHcDcqcnuLCP0fdAXCURu3Of5s0orGNDQ=="
+        length="227298456"
         type="application/octet-stream" />
     </item>
   </channel>
