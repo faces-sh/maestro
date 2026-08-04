@@ -7,14 +7,14 @@
     <language>en</language>
     <item>
       <title>Maestro 0.8.1</title>
-      <pubDate>Tue, 04 Aug 2026 09:57:08 +0200</pubDate>
+      <pubDate>Tue, 04 Aug 2026 13:14:12 +0200</pubDate>
       <sparkle:version>57</sparkle:version>
       <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/faces-sh/maestro/releases/download/v0.8.1/Maestro.dmg"
-        sparkle:edSignature="0+HVVU0DejoOYxim9aAjU2MTNHj9ZAnMHPMIZm70E6ZtirpFc0lMV3rubu/9hCgvqr+lBYIMMZjOzxp2bVUDCg=="
-        length="509286217"
+        sparkle:edSignature="Ob5t5mCztXjBw5rZahyw3FM0VsbqQKgtxAaQkhp/DVA5vdHjiIgz6Yxka6FGbGe5ejuraM48/QD4qEBvZzVRBw=="
+        length="516182499"
         type="application/octet-stream" />
     </item>
   </channel>
